@@ -23,3 +23,9 @@ The Weather App is a web application designed to provide users with real-time we
 - Ensure responsiveness and cross-device compatibility for seamless user experience.
 - Showcase proficiency in building modern web applications using Next.js, React, and Tailwind CSS.
 - Demonstrate the ability to integrate with external APIs and handle asynchronous data fetching.
+
+  ## How to Start:
+1. Clone the repository to your local machine. git clone https://github.com/Rohail30/Check-Weather.git
+2. Install dependencies by running `npm install` or `yarn install`.
+3. Start the development server by running `npm run dev` or `yarn dev`.
+4. Open your web browser and navigate to `http://localhost:3000` to view the Weather App.
